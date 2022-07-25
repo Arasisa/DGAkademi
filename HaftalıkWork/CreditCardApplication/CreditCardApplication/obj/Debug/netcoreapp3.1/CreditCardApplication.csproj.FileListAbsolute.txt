@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\bin\Debug\netcoreapp3.1\CreditCardApplication.exe
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\bin\Debug\netcoreapp3.1\CreditCardApplication.deps.json
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\bin\Debug\netcoreapp3.1\CreditCardApplication.runtimeconfig.json
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\bin\Debug\netcoreapp3.1\CreditCardApplication.runtimeconfig.dev.json
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\bin\Debug\netcoreapp3.1\CreditCardApplication.dll
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\bin\Debug\netcoreapp3.1\CreditCardApplication.pdb
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.AssemblyInfo.cs
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.dll
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.pdb
+C:\Users\pc\source\repos\CreditCardApplication\CreditCardApplication\obj\Debug\netcoreapp3.1\CreditCardApplication.genruntimeconfig.cache
